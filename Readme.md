@@ -2,9 +2,9 @@
 
 ## Seminar Information
 
-**Course:** Seminar 1
-**Research Area:** Machine Learning and Deep Learning
-**Lecturer: Professor. Nguyen Hung Son
+* **Course:** Seminar 1
+* **Research Area:** Machine Learning and Deep Learning
+* **Lecturer: Professor. Nguyen Hung Son
 
 ---
 
