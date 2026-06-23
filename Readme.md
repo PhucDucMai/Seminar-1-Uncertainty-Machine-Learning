@@ -1,4 +1,4 @@
-# Deep Ensembles for Model Uncertainty Estimation in Deep Learning: A Literature Review
+# Deep Ensembles for Model Uncertainty Estimation: An Empirical Study on Packed-Ensembles
 
 ## Seminar Information
 
